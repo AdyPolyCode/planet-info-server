@@ -1,0 +1,52 @@
+{
+    "gasGiants":[
+        {
+            "id": 1,
+            "name": "Jupiter",
+            "SurfaceArea": "61.42 billion km²",
+            "OrbitalPeriod": "12 years",
+            "Radious": "69,911 km",
+            "Mass": "1.898 × 10^27 kg 317.8 M⊕",
+            "Moons": [
+                "Europa",
+                "Ganymede",
+                "Io",
+                "Callisto",
+                "Amalthea",
+                "Himalia"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Saturn",
+            "SurfaceArea": "42.7 billion km²",
+            "OrbitalPeriod": "29 years",
+            "Radious": "58,232 km",
+            "Mass": "5.683 × 10^26 kg 95.16 M⊕",
+            "Moons": [
+                "Titan",
+                "Enceladus",
+                "Mimas",
+                "Hyperion",
+                "Lapetus",
+                "Tethys"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Neptune",
+            "SurfaceArea": "7.618 billion km²",
+            "OrbitalPeriod": "165 years",
+            "Radious": "24,622 km",
+            "Mass": "1.02413×1026 kg 17.15 M⊕",
+            "Moons": [
+                "Triton",
+                "Hippocamp",
+                "Thalassa",
+                "Proteus",
+                "Nereid",
+                "Sao"
+            ]
+        }
+    ]
+}

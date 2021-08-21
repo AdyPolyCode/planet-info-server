@@ -1,0 +1,33 @@
+{
+    "terrestrialPlanets":[
+        {
+            "id": 1,
+            "name": "Mercury",
+            "SurfaceArea": "74.8 million km²",
+            "OrbitalPeriod": "88 days",
+            "Radious": "2,439.7 km",
+            "Mass": "3.285 × 10^23 kg 0.055 M⊕",
+            "Moons": []
+        },
+        {
+            "id": 2,
+            "name": "Venus",
+            "SurfaceArea": "460.2 million km²",
+            "OrbitalPeriod": "225 days",
+            "Radious": "6,051.8 km",
+            "Mass": "4.867 × 10^24 kg 0.815 M⊕",
+            "Moons": []
+        },
+        {
+            "id": 3,
+            "name": "Earth",
+            "SurfaceArea": "510.1 million km²",
+            "OrbitalPeriod": "365 days",
+            "Radious": "6,371 km",
+            "Mass": "5.972 × 10^24 kg",
+            "Moons": [
+                "Moon"
+            ]
+        }
+    ]
+}

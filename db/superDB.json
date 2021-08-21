@@ -1,0 +1,31 @@
+{
+    "superEarth":[
+        {
+            "id": 1,
+            "name": "55 Cancri e",
+            "SurfaceArea": "Unknown",
+            "OrbitalPeriod": "18 hours",
+            "Radious": "11,946 km",
+            "Mass": "7.99 +0.32; −0.33 M⊕",
+            "Moons": []
+        },
+        {
+            "id": 2,
+            "name": "Kepler-10b",
+            "SurfaceArea": "Unknown",
+            "OrbitalPeriod": "20 hours",
+            "Radious": "9,365.4 km",
+            "Mass": "3.72±0.42 M⊕",
+            "Moons": []
+        },
+        {
+            "id": 3,
+            "name": "LHS 1140 b",
+            "SurfaceArea": "Unknown",
+            "OrbitalPeriod": "25 days",
+            "Radious": "9,110 km",
+            "Mass": "6.48±0.46 M⊕",
+            "Moons": []
+        }
+    ]
+}
